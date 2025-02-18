@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 6308d6d
+_src_path: gh:UtrechtUniversity/python-template
+copyright_holder: Utrecht University
+email: h.j.treep@uu.nl
+features:
+- add_ruff
+- add_mypy
+- add_nbval
+- add_pytest
+- add_coverage
+- add_sphinx
+package: testpackage
+user_name: Jelle Treep
